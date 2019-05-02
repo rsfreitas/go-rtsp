@@ -1,2 +1,8 @@
 # go-rtsp
-A golang RTSP implementation
+
+A RTSP implementation to forward video streaming.
+
+## License
+
+BSD
+
